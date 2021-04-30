@@ -1,2 +1,0 @@
-# Devops-Lab
-Hello World
